@@ -16,8 +16,8 @@
     },
     "navy": {
       "sass": {
-        "accent1": "#004e92",
-        "accent2": "#000428"
+        "accent1": "#FF6700",
+        "accent2": "#ff5050"
       }
     },
     "violet": {
