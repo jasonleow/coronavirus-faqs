@@ -1,6 +1,6 @@
-content: '&copy;'
+content: '&copy; A social good project by '
 links:
   - new_window: true
-    text: Made by Sweet Jam Sites
+    text: Sweet Jam Sites
     url: 'https://sweetjamsites.com'
 has_social: true
