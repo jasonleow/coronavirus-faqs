@@ -20,7 +20,7 @@ items:
     subtitle: Medium inspired blogging theme
     url: 'https://themes.stackbit.com/demos/ampersand/'
 menus:
-  layouts:
+  main:
     title: Showcase
     weight: 2
 template: showcase
